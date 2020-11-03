@@ -27,11 +27,11 @@ Layer	Neurons	Activation function
 
 6. Following steps were taken to try and increase model performance:
 
-Adjusting the input data by dropping more variables.
-Added more neurons to a hidden layer.
-Added more hidden layer.
-Used different activation functions for the hidden layers.
-Reduced the number of epochs to the training regimen.
+- Adjusting the input data by dropping more variables.
+- Adding more neurons to a hidden layer.
+- Adding more hidden layer.
+- Using different activation functions for the hidden layers.
+- Reducing the number of epochs to the training regimen.
 
 #### Summary: 
 Even thought we were not able to achive the 75% accuracy we wanted we were able to increase the accuracy from 55% to 72%.  
