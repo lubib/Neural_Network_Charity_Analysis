@@ -16,11 +16,12 @@ Compiling, Training, and Evaluating the Model
 
 4. The following neurons and activation functions were chosen to optimize the neural network model.
 Layer	Neurons	Activation function
-hidden_nodes_layer1 = 120 relu
-hidden_nodes_layer2 = 70 relu
-hidden_nodes_layer3 = 70 relu
-hidden_nodes_layer4 = 30 relu
-Output		Sigmoid
+
+<img width="406" alt="Screen Shot 2020-11-02 at 11 08 16 PM" src="https://user-images.githubusercontent.com/67556541/97949089-862b9080-1d60-11eb-81e2-e2aad1fdc1c4.png">
+
+  Hiden laye activation="relu"
+  
+  Output layer activation="sigmoid"
 
 5. We were not able to achive the target model performance of 75%. However, we were pretty close with the highest accuracy for the model of 72%. 
 
